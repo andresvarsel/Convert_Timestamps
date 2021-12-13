@@ -14,4 +14,4 @@ The information from the table 'interactions' is written to a csv file.
 The converted timestamps are to be found in the column 'date_time'. 
 
 Note: For the purpose of experimentation an exe file was created by using pyinstaller. The exe file (JamiDB_csv_date_time.exe)
-is found in the Resource folder.
+is found in the 'Resources' folder.
